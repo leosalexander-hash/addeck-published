@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "createdAt": "2026-10-01T13:21:48.728Z",
+  "node": "24.21.0",
+  "zip": "addeck-0.2.0-win32-x64.zip",
+  "size": 137824221,
+  "sha256": "ed99107790d4a9f5e5adf1e09353e4eedb455637f242e13f093446b4f8aa0dc2",
+  "url": "https://github.com/leosalexander-hash/addeck-published/releases/tag/v0.2.0",
+  "packages": {
+    "win32-x64": {
+      "zip": "addeck-0.2.0-win32-x64.zip",
+      "size": 137824221,
+      "sha256": "ed99107790d4a9f5e5adf1e09353e4eedb455637f242e13f093446b4f8aa0dc2"
+    },
+    "darwin-arm64": {
+      "zip": "addeck-0.2.0-darwin-arm64.zip",
+      "size": 134745524,
+      "sha256": "0214b60414c4ffcb0186191626eb1c7a6d5957a14258cb02779efd3350d9aee0"
+    },
+    "linux-x64": {
+      "zip": "addeck-0.2.0-linux-x64.zip",
+      "size": 151126214,
+      "sha256": "8b0120c151ef473cf39ef4e2deb2f4e5fc1ab301d16009886d71288050e9cf5b"
+    }
+  }
+}
