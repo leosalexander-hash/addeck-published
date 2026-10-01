@@ -1,0 +1,23 @@
+Terms of use for AdDeck and AI Hub
+
+These terms apply to AdDeck and AI Hub, the free apps from LSALab (Leo Alexander). By installing or using an app you agree to them.
+
+1. Free to use. You may install and use the app on computers you own or control, for personal or business work, at no charge.
+
+2. No resale and no redistribution. You may not sell, rent or lend the app, pass copies on, or offer it to others as a hosted service. To share it, share the link to lsalab.dev.
+
+3. Your own accounts. The app connects to AI and media services with accounts and keys that are yours. What those services charge you, and their terms, are between you and them. LSALab does not pay for, resell or pass on their services.
+
+4. Your data stays on your computer. The app runs on your computer and keeps its data there. It does not send your conversations, files or keys to LSALab. It reads a small public file to learn whether a newer version exists. The services you connect receive what you send them.
+
+5. What you make is yours. LSALab claims no rights in the work you make with the app.
+
+6. Other people's software. The package includes software from other authors under their own licences, named in the package. Those licences apply to that software.
+
+7. No warranty. The app is provided as it is, without a warranty of any kind. It may have faults, and it may change or stop being offered.
+
+8. Limit of liability. As far as the law allows, LSALab is not liable for loss or damage from using the app, including charges from the services you connect and loss of data. Keep your own backups.
+
+9. New versions. A new version may come with new terms. The terms in the package you use apply to that version.
+
+10. Contact. Questions go to the address on lsalab.dev.
