@@ -1,26 +1,26 @@
 {
-  "version": "0.2.1",
-  "createdAt": "2026-10-02T16:08:23.137Z",
+  "version": "0.2.2",
+  "createdAt": "2026-10-02T18:00:03.046Z",
   "node": "24.21.0",
-  "zip": "addeck-0.2.1-win32-x64.zip",
-  "size": 161028541,
-  "sha256": "99f046bbb0d1e91ef452e89b68d0dac01944481b515bb4e7fc6d4a603f0cbef6",
-  "url": "https://github.com/leosalexander-hash/addeck-published/releases/tag/v0.2.1",
+  "zip": "addeck-0.2.2-win32-x64.zip",
+  "size": 161028905,
+  "sha256": "355b22f3d62fb0e8e551a01004e9806faddc665f5b60dd4d04ed9023cc09c926",
+  "url": "https://github.com/leosalexander-hash/addeck-published/releases/tag/v0.2.2",
   "packages": {
     "win32-x64": {
-      "zip": "addeck-0.2.1-win32-x64.zip",
-      "size": 161028541,
-      "sha256": "99f046bbb0d1e91ef452e89b68d0dac01944481b515bb4e7fc6d4a603f0cbef6"
+      "zip": "addeck-0.2.2-win32-x64.zip",
+      "size": 161028905,
+      "sha256": "355b22f3d62fb0e8e551a01004e9806faddc665f5b60dd4d04ed9023cc09c926"
     },
     "darwin-arm64": {
-      "zip": "addeck-0.2.1-darwin-arm64.zip",
-      "size": 154202562,
-      "sha256": "c64deabbfd01e635a3a41d600076101f15aeb86c3414316d6c562b0de376792c"
+      "zip": "addeck-0.2.2-darwin-arm64.zip",
+      "size": 154203171,
+      "sha256": "8f1282c0634398a0a15255feb3a8f79b02777e0a0e1d280c429289496cd9163c"
     },
     "linux-x64": {
-      "zip": "addeck-0.2.1-linux-x64.zip",
-      "size": 169710804,
-      "sha256": "402ce3a0b859752963b5245d88dbad7230d42f9f6c9930f8bc9e0d0305b3273d"
+      "zip": "addeck-0.2.2-linux-x64.zip",
+      "size": 169711236,
+      "sha256": "aac6ea0412b5a7d93bf6e9b2342aca87706b1718a433cd8a1cb217b67a67f357"
     }
   }
 }
